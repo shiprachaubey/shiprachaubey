@@ -4,69 +4,39 @@
 
 ### Backend Engineer • Integration & API Engineering
 
-Building scalable backend systems, payment infrastructure, distributed services, and APIs.
+Building scalable backend systems, payment infrastructure, distributed systems and APIs.
 
 <p>
-  <a href="https://github.com/shiprachaubey">
-    <img src="https://komarev.com/ghpvc/?username=shiprachaubey&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
+<img src="https://komarev.com/ghpvc/?username=shiprachaubey&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://img.shields.io/github/followers/shiprachaubey?label=Followers&style=social" />
 </p>
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
-```java
-class ShipraChaubey {
-
-    String role = "Backend Engineer";
-
-    String[] expertise = {
-        "Backend Development",
-        "Payment Infrastructure",
-        "Microservices",
-        "API Integrations",
-        "Distributed Systems"
-    };
-
-    String[] currentlyWorkingOn = {
-        "Payment Services",
-        "Payout Infrastructure",
-        "Go",
-        "System Design"
-    };
-
-    String[] technologies = {
-        "Node.js",
-        "NestJS",
-        "TypeScript",
-        "PostgreSQL",
-        "Redis",
-        "Kafka",
-        "AWS",
-        "Docker"
-    };
-
-}
-```
+- 💼 Backend Engineer with **2+ years** of experience
+- 🚀 Building scalable **Payment & Payout Infrastructure**
+- 🌱 Currently learning **Go** & **Distributed Systems**
+- ⚡ Passionate about **Microservices**, **Kafka**, **Redis**, **System Design**
+- 💬 Ask me about **Node.js, NestJS, PostgreSQL, Redis, Kafka, AWS**
 
 ---
 
-# 🚀 What I'm Working On
+## 🚀 Current Focus
 
-- 💳 Payment & Payout Infrastructure
+- 💳 Payment Infrastructure
 - ⚡ Backend Microservices
-- 🔥 Event-Driven Systems
-- ☁️ Cloud Native Applications
-- 📈 Database Optimization
-- 🔗 REST APIs & Integrations
-- 🧠 Learning Go & Distributed Systems
+- 🔗 REST API Design
+- 📨 Kafka Event Streaming
+- ☁️ AWS Cloud
+- 🗄 PostgreSQL Optimization
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 ### Languages
 
@@ -80,79 +50,39 @@ class ShipraChaubey {
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
 </p>
 
-### Databases
+### Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql" />
 </p>
 
-### DevOps & Cloud
+### Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github" />
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=firebase,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=vscode,postman,firebase" />
 </p>
 
 ---
 
-# 🏆 Experience Highlights
+## 🏆 Experience Highlights
 
-🚀 Led migration from **Monolithic Laravel** to **Microservices**
+- 🚀 Monolith → Microservices Migration
+- 💳 Payment & Payout Services
+- ⚡ Kafka Event Processing
+- 🔥 Redis Caching & State Management
+- 📈 PostgreSQL Query Optimization
+- 🔐 Role Based Access Control (RBAC)
+- 🌍 APIs serving production workloads
 
-💳 Built **Payment & Payout Services** for production financial workflows
+## 🌐 Connect With Me
 
-⚡ Optimized PostgreSQL queries on large-scale datasets
-
-📨 Designed Kafka-based asynchronous processing
-
-🔥 Redis-powered state management and caching
-
-🏗 Built scalable REST APIs used by web & mobile applications
-
-📈 Engineered recommendation systems serving **500K+ monthly users**
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shiprachaubey&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiprachaubey&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=shiprachaubey&theme=github-dark-blue&hide_border=true"/>
-
-</p>
-
----
-
-# 🏅 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shiprachaubey&theme=algolia&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
+<p>
 
 <a href="https://linkedin.com/in/shipra-chaubey">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
@@ -170,6 +100,6 @@ class ShipraChaubey {
 
 ---
 
-# 💡 Quote
+## 💡 Quote
 
-> *"Design systems that are simple to understand, resilient under load, and easy to scale."*
+> **"Build systems that are simple, scalable and reliable."**
